@@ -1,6 +1,8 @@
 # Mini-Projeto 1 — SBC de Regras IF-THEN
 ## Domínio: Triagem Médica Simples
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QRXUCJq7EeXu0uHrD10zYfZ759tuJHfj?usp=sharing)
+
 Sistema Baseado em Conhecimento (SBC) que simula uma triagem médica inicial utilizando **10 regras IF-THEN** com encadeamento progressivo (forward chaining) e resolução de conflitos por **salience** e **NOT**.
 
 ---
@@ -72,7 +74,7 @@ Duas estratégias são utilizadas:
 
 ## Como Executar
 
-1. Abra o notebook `mini_projeto1_triagem_medica.ipynb` no [Google Colab](https://colab.research.google.com)
+1. Clique no badge **"Abrir no Colab"** acima ou [acesse diretamente aqui](https://colab.research.google.com/drive/1QRXUCJq7EeXu0uHrD10zYfZ759tuJHfj?usp=sharing)
 2. Execute as células em ordem (Ctrl+Enter ou "Executar tudo")
 3. Os 3 casos de teste já estão prontos nas células 2, 3 e 4
 4. A última célula permite inserir sintomas interativamente
