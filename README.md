@@ -90,3 +90,12 @@ Duas estratégias são utilizadas:
 
 ---
 
+## Equipe
+
+| Esdras Lucas Borges dos Santos |
+| Luis Antônio Feliciano |
+| Felipe José de Medeiros Melo |
+| João Lucas Silva Acioli |
+
+---
+
